@@ -1,11 +1,6 @@
-## My Project
+## Amazon Braket Bell Sate Running on Simulators and QPUs
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+In this hello-world tutorial we prepare a maximally entangled Bell state between two qubits. We then run our circuit on a local simulator and obtain the results.
 
 ## Security
 
